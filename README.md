@@ -3,7 +3,7 @@ List of all links you can try with ULX3S
 
 – FPGArduino
 
-	- http://www.nxlab.fer.hr/fpgarduino/
+	- [fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
 		
 	- https://github.com/f32c/arduino
 		
