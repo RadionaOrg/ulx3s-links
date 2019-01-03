@@ -1,7 +1,8 @@
 # ulx3s-links
 List of all links you can try with ULX3S
 
-– FPGArduino 
+– FPGArduino
+
 	- http://www.nxlab.fer.hr/fpgarduino/
 		
 	- https://github.com/f32c/arduino
@@ -41,36 +42,36 @@ List of all links you can try with ULX3S
 – Self-flash & web interface
 
 	- https://www.youtube.com/watch?v=cgYtZW4zPSI
-		
+
 – HDMI example
 
 	- https://github.com/emard/prjtrellis-dvi
-		
+
 – Small display
 
 	- https://github.com/emard/prjtrellis-vgalcd
-		
+
 – SPI OLED 
 	- https://github.com/emard/fpga_spi_oled
 		
 	- https://github.com/emard/hdmi-audio
-		
+
 – SDR
 
 	- https://github.com/emard/flearadio
 		
 	- https://github.com/emard/rdsfpga
-		
+
 - LED strip
 
 		- https://github.com/emard/ledstrip
-	
+
 – Linux on ULX3S-u
 
 	- https://twitter.com/fpga_dave/status/1053290842809683968
-		
+
 – PMODS in progress
 
 	- https://github.com/goran-mahovlic/ulx3s-PMOD
-		
+
 	- https://github.com/daveshah1/pmods
