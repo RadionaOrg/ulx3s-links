@@ -15,9 +15,19 @@ List of all links you can try with ULX3S
 		
 # Opensource toolchain
 
-	- https://github.com/DoctorWkt/ULX3S-Blinky
+[https://github.com/SymbiFlow/prjtrellis](https://github.com/SymbiFlow/prjtrellis)
+[https://github.com/YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)
+[https://github.com/YosysHQ/yosys](https://github.com/YosysHQ/yosys)
 
-	- https://github.com/emard/Verilog_tic-tac-toe
+examples
+
+[https://github.com/DoctorWkt/ULX3S-Blinky](https://github.com/DoctorWkt/ULX3S-Blinky)
+
+[https://github.com/emard/prjtrellis-dvi](https://github.com/emard/prjtrellis-dvi)
+
+[https://github.com/emard/Verilog_tic-tac-toe](https://github.com/emard/Verilog_tic-tac-toe)
+
+[https://github.com/emard/prjtrellis-picorv32](https://github.com/emard/prjtrellis-picorv32)
 		
 # Retro (gaming) platforms
 
