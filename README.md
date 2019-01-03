@@ -31,19 +31,20 @@ examples
 
 [https://github.com/emard/prjtrellis-picorv32](https://github.com/emard/prjtrellis-picorv32)
 		
-# Retro (gaming) platforms
+# Retro computing
 
 	- https://github.com/emard/galaksija
 
 	- https://github.com/emard/UK101onFPGA
-		
-# Amiga and games
-
-	- https://github.com/emard/fpga_snake_game
 
 	- https://github.com/emard/Minimig_ECS (Amiga)
 
 	- https://www.youtube.com/watch?v=q0nysMydf4I&t=1s
+
+
+# Retro gaming
+
+	- https://github.com/emard/fpga_snake_game
 
 	- https://github.com/emard/Papilio-Arcade
 
