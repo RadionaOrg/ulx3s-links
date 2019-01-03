@@ -63,7 +63,7 @@ List of all links you can try with ULX3S
 		
 - LED strip
 
-	- https://github.com/emard/ledstrip
+		- https://github.com/emard/ledstrip
 	
 – Linux on ULX3S-u
 
