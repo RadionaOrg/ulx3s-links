@@ -3,7 +3,15 @@ List of all links you can try with ULX3S
 
 # FPGArduino
 
-[fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
+[http://www.nxlab.fer.hr/fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
+
+[https://github.com/f32c/arduino](https://github.com/f32c/arduino)
+
+[https://github.com/f32c/f32c](https://github.com/f32c/f32c)
+
+[https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf](https://riscv.org/wp-content/uploads/2016/07/Tue1600zec_fpgarduino_riscv_wsV2.pdf)
+
+[https://www.youtube.com/watch?v=2DlkXjZnMjc&t=2s](https://www.youtube.com/watch?v=2DlkXjZnMjc&t=2s)
 
 	- http://www.nxlab.fer.hr/fpgarduino
 		
