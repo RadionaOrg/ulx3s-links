@@ -16,7 +16,9 @@ List of all links you can try with ULX3S
 # Opensource toolchain
 
 [https://github.com/SymbiFlow/prjtrellis](https://github.com/SymbiFlow/prjtrellis)
+
 [https://github.com/YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)
+
 [https://github.com/YosysHQ/yosys](https://github.com/YosysHQ/yosys)
 
 examples
