@@ -21,7 +21,7 @@ List of all links you can try with ULX3S
 
 [https://github.com/YosysHQ/yosys](https://github.com/YosysHQ/yosys)
 
-examples
+# Opensource toolchain examples
 
 [https://github.com/DoctorWkt/ULX3S-Blinky](https://github.com/DoctorWkt/ULX3S-Blinky)
 
