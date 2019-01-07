@@ -33,58 +33,62 @@ examples
 		
 # Retro computing
 
-	- https://github.com/emard/galaksija
+[https://github.com/emard/galaksija](https://github.com/emard/galaksija)
 
-	- https://github.com/emard/UK101onFPGA
+[https://github.com/emard/UK101onFPGA](https://github.com/emard/UK101onFPGA)
 
-	- https://github.com/emard/Minimig_ECS (Amiga)
+[https://github.com/emard/Minimig_ECS](https://github.com/emard/Minimig_ECS Amiga)
 
-	- https://www.youtube.com/watch?v=q0nysMydf4I&t=1s
-
+[https://www.youtube.com/watch?v=q0nysMydf4I&t=1s](Amiga Youtube)
 
 # Retro gaming
 
-	- https://github.com/emard/fpga_snake_game
+[https://github.com/emard/fpga_snake_game](https://github.com/emard/fpga_snake_game)
 
-	- https://github.com/emard/Papilio-Arcade
+[https://github.com/emard/Papilio-Arcade](https://github.com/emard/Papilio-Arcade)
 
-	- https://www.youtube.com/watch?v=CR-pVxN-08k
+[https://www.youtube.com/watch?v=CR-pVxN-08k](Galaksija Youtube)
 
-	- https://github.com/emard/vhdl_phoenix	
+[https://github.com/emard/vhdl_phoenix	](phoenix Youtube)
 		
 # Self-flash & web interface
 
-	- https://www.youtube.com/watch?v=cgYtZW4zPSI
+[https://www.youtube.com/watch?v=cgYtZW4zPSI](https://www.youtube.com/watch?v=cgYtZW4zPSI)
 
 # HDMI example
 
-	- https://github.com/emard/prjtrellis-dvi
+[https://github.com/emard/prjtrellis-dvi](https://github.com/emard/prjtrellis-dvi)
 
 # Small display
 
-	- https://github.com/emard/prjtrellis-vgalcd
+[https://github.com/emard/prjtrellis-vgalcd](https://github.com/emard/prjtrellis-vgalcd)
 
 # SPI OLED 
-	- https://github.com/emard/fpga_spi_oled
-		
-	- https://github.com/emard/hdmi-audio
+
+[https://github.com/emard/fpga_spi_oled](https://github.com/emard/fpga_spi_oled)
+
+[https://github.com/emard/hdmi-audio](https://github.com/emard/hdmi-audio)
 
 # SDR
 
-	- https://github.com/emard/flearadio
-		
-	- https://github.com/emard/rdsfpga
+[https://github.com/emard/flearadio](https://github.com/emard/flearadio)
+
+[https://github.com/emard/rdsfpga](https://github.com/emard/rdsfpga)
 
 # LED strip
 
-		- https://github.com/emard/ledstrip
+[https://github.com/emard/ledstrip](https://github.com/emard/ledstrip)
+
+# 64X64 LED panel
+
+[https://github.com/emard/prjtrellis-led64x64](https://github.com/emard/prjtrellis-led64x64)
 
 # Linux on ULX3S
 
-	- https://twitter.com/fpga_dave/status/1053290842809683968
+[https://twitter.com/fpga_dave/status/1053290842809683968](https://twitter.com/fpga_dave/status/1053290842809683968)
 
 # PMODS in progress
 
-	- https://github.com/goran-mahovlic/ulx3s-PMOD
+[https://github.com/goran-mahovlic/ulx3s-PMOD](https://github.com/goran-mahovlic/ulx3s-PMOD)
 
-	- https://github.com/daveshah1/pmods
+[https://github.com/daveshah1/pmods](https://github.com/daveshah1/pmods)
