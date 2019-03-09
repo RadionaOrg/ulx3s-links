@@ -1,6 +1,20 @@
 # ulx3s-links
 List of all links you can try with ULX3S
 
+# Documentation
+
+[https://radiona.org/ulx3s/](https://radiona.org/ulx3s/)
+
+[hardware](https://github.com/emard/ulx3s)
+
+[schematic](https://github.com/emard/ulx3s/blob/master/doc/schematics.pdf)
+
+# Getting Started
+
+[https://github.com/emard/ulx3s-examples](https://github.com/emard/ulx3s-examples/blob/master/README.md)
+[https://github.com/emard/ulx3s-bin](https://github.com/emard/ulx3s-bin) 
+[https://github.com/f32c/tools/ujprog](https://github.com/f32c/tools/blob/master/ujprog/README.md)
+
 # FPGArduino
 
 [http://www.nxlab.fer.hr/fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
