@@ -49,9 +49,11 @@ Sources are prepared to compile with both open and closed source tools
 
 [https://github.com/emard/UK101onFPGA](https://github.com/emard/UK101onFPGA)
 
-[https://github.com/emard/Minimig_ECS](https://github.com/emard/Minimig_ECS Amiga)
+[https://github.com/emard/Minimig_ECS](https://github.com/emard/Minimig_ECS)
+(Amiga)
 
-[https://www.youtube.com/watch?v=q0nysMydf4I&t=1s](Amiga Youtube)
+[https://www.youtube.com/watch?v=q0nysMydf4I&t=1s](https://www.youtube.com/watch?v=q0nysMydf4I&t=1s)
+(Amiga Youtube)
 
 # Retro gaming
 
@@ -59,9 +61,9 @@ Sources are prepared to compile with both open and closed source tools
 
 [https://github.com/emard/Papilio-Arcade](https://github.com/emard/Papilio-Arcade)
 
-[https://www.youtube.com/watch?v=CR-pVxN-08k](Galaksija Youtube)
+[https://www.youtube.com/watch?v=CR-pVxN-08k](https://www.youtube.com/watch?v=CR-pVxN-08k) (Galaksija Youtube)
 
-[https://github.com/emard/vhdl_phoenix	](phoenix Youtube)
+[https://github.com/emard/vhdl_phoenix](https://github.com/emard/vhdl_phoenix)
 		
 # Self-flash & web interface
 
