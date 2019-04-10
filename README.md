@@ -29,11 +29,15 @@ List of all links you can try with ULX3S
 
 [https://github.com/DoctorWkt/ULX3S-Blinky](https://github.com/DoctorWkt/ULX3S-Blinky)
 
-[https://github.com/emard/prjtrellis-dvi](https://github.com/emard/prjtrellis-dvi)
-
 [https://github.com/emard/Verilog_tic-tac-toe](https://github.com/emard/Verilog_tic-tac-toe)
 
 [https://github.com/emard/prjtrellis-picorv32](https://github.com/emard/prjtrellis-picorv32)
+
+# Advanced examples
+The same source exmamples compile with both open and closed source tools.
+HDMI, LED 64x64, LCD 3.5", OLED, SPDIF/ANALOG AUDIO ...
+
+[https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc)
 		
 # Retro computing
 
@@ -59,19 +63,9 @@ List of all links you can try with ULX3S
 
 [https://www.youtube.com/watch?v=cgYtZW4zPSI](https://www.youtube.com/watch?v=cgYtZW4zPSI)
 
-# HDMI example
+# HDMI, LED 64x64, OLED, AUDIO open and closed source tools advanced examples
 
-[https://github.com/emard/prjtrellis-dvi](https://github.com/emard/prjtrellis-dvi)
-
-# Small display
-
-[https://github.com/emard/prjtrellis-vgalcd](https://github.com/emard/prjtrellis-vgalcd)
-
-# SPI OLED 
-
-[https://github.com/emard/fpga_spi_oled](https://github.com/emard/fpga_spi_oled)
-
-[https://github.com/emard/hdmi-audio](https://github.com/emard/hdmi-audio)
+[https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc)
 
 # SDR
 
@@ -82,10 +76,6 @@ List of all links you can try with ULX3S
 # LED strip
 
 [https://github.com/emard/ledstrip](https://github.com/emard/ledstrip)
-
-# 64X64 LED panel
-
-[https://github.com/emard/prjtrellis-led64x64](https://github.com/emard/prjtrellis-led64x64)
 
 # Linux on ULX3S
 
