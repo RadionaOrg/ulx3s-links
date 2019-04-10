@@ -9,6 +9,8 @@ List of all links you can try with ULX3S
 
 [http://www.nxlab.fer.hr/fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
 
+[https://github.com/f32c/fpgarduino](https://github.com/f32c/fpgarduino)
+
 [https://github.com/f32c/arduino](https://github.com/f32c/arduino)
 
 [https://github.com/f32c/f32c](https://github.com/f32c/f32c)
@@ -34,8 +36,10 @@ List of all links you can try with ULX3S
 [https://github.com/emard/prjtrellis-picorv32](https://github.com/emard/prjtrellis-picorv32)
 
 # Advanced examples
-The same source exmamples compile with both open and closed source tools.
-HDMI, LED 64x64, LCD 3.5", OLED, SPDIF/ANALOG AUDIO ...
+
+Sources are prepared to compile with both open and closed source tools
+
+    HDMI, LED 64x64, LCD 3.5", OLED, SPDIF/ANALOG AUDIO ...
 
 [https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc)
 		
@@ -62,10 +66,6 @@ HDMI, LED 64x64, LCD 3.5", OLED, SPDIF/ANALOG AUDIO ...
 # Self-flash & web interface
 
 [https://www.youtube.com/watch?v=cgYtZW4zPSI](https://www.youtube.com/watch?v=cgYtZW4zPSI)
-
-# HDMI, LED 64x64, OLED, AUDIO open and closed source tools advanced examples
-
-[https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc)
 
 # SDR
 
