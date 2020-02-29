@@ -1,5 +1,5 @@
 # ulx3s-links
-List of all links you can try with ULX3S
+List of all links you can try with ULX3S. See also [ulx3s.github.io](https://ulx3s.github.io/)
 
 # ULX3S PCB
 
