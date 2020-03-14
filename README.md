@@ -1,18 +1,20 @@
-# ulx3s-links
+#  ulx3s-links
 List of all links you can try with ULX3S
 
-# Documentation
+* These links are being moved to https://ulx3s.github.io/
+
+##  Documentation
 
 * [https://radiona.org/ulx3s/](https://radiona.org/ulx3s/)
 
-# ULX3S PCB
+##  ULX3S PCB
 
 * [Hardware](https://github.com/emard/ulx3s)
 
 * [Schematics](https://github.com/emard/ulx3s/blob/master/doc/schematics.pdf)
 
 * [http://github.com/emard/ulx3s](http://github.com/emard/ulx3s)
-# Getting Started
+##  Getting Started
 
 * [https://github.com/emard/ulx3s-examples](https://github.com/emard/ulx3s-examples/blob/master/README.md)
 
@@ -20,7 +22,7 @@ List of all links you can try with ULX3S
 
 * [https://github.com/f32c/tools/ujprog](https://github.com/f32c/tools/blob/master/ujprog/README.md)
 
-# FPGArduino
+##  FPGArduino
 
 * [http://www.nxlab.fer.hr/fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
 
@@ -34,7 +36,7 @@ List of all links you can try with ULX3S
 
 * [https://www.youtube.com/watch?v=2DlkXjZnMjc&t=2s](https://www.youtube.com/watch?v=2DlkXjZnMjc&t=2s)
 		
-# Opensource toolchain
+##  Opensource toolchain
 
 * [https://github.com/SymbiFlow/prjtrellis](https://github.com/SymbiFlow/prjtrellis)
 
@@ -42,7 +44,7 @@ List of all links you can try with ULX3S
 
 * [https://github.com/YosysHQ/yosys](https://github.com/YosysHQ/yosys)
 
-# Opensource toolchain examples
+##  Opensource toolchain examples
 
 * [https://github.com/DoctorWkt/ULX3S-Blinky](https://github.com/DoctorWkt/ULX3S-Blinky)
 
@@ -58,7 +60,7 @@ List of all links you can try with ULX3S
 
 * [ULX3S WSL/Ubuntu Toolchain Open Source Install](https://gist.github.com/gojimmypi/f96cd86b2b8595b4cf3be4baf493c5a7) 
 
-# Advanced examples
+##  Advanced examples
 
 Sources are prepared to compile with both open and closed source tools
 
@@ -66,7 +68,7 @@ Sources are prepared to compile with both open and closed source tools
 
 * [https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc)
 		
-# Retro computing
+##  Retro computing
 
 * [https://github.com/emard/galaksija](https://github.com/emard/galaksija)
 
@@ -78,7 +80,7 @@ Sources are prepared to compile with both open and closed source tools
 * [https://www.youtube.com/watch?v=q0nysMydf4I&t=1s](https://www.youtube.com/watch?v=q0nysMydf4I&t=1s)
 (Amiga Youtube)
 
-# Retro gaming
+##  Retro gaming
 
 * [https://github.com/emard/fpga_snake_game](https://github.com/emard/fpga_snake_game)
 
@@ -88,42 +90,42 @@ Sources are prepared to compile with both open and closed source tools
 
 * [https://github.com/emard/vhdl_phoenix](https://github.com/emard/vhdl_phoenix)
 		
-# Self-flash & web interface
+##  Self-flash & web interface
 
 * [https://www.youtube.com/watch?v=cgYtZW4zPSI](https://www.youtube.com/watch?v=cgYtZW4zPSI)
-# HDMI example
+##  HDMI example
 
 * [https://github.com/emard/prjtrellis-dvi](https://github.com/emard/prjtrellis-dvi)
 
-# Small display
+##  Small display
 
 * [https://github.com/emard/prjtrellis-vgalcd](https://github.com/emard/prjtrellis-vgalcd)
 
-# SPI OLED 
+##  SPI OLED 
 
 * [https://github.com/emard/fpga_spi_oled](https://github.com/emard/fpga_spi_oled)
 
 * [https://github.com/emard/hdmi-audio](https://github.com/emard/hdmi-audio)
 
-# SDR
+##  SDR
 
 * [https://github.com/emard/flearadio](https://github.com/emard/flearadio)
 
 * [https://github.com/emard/rdsfpga](https://github.com/emard/rdsfpga)
 
-# LED strip
+##  LED strip
 
 * [https://github.com/emard/ledstrip](https://github.com/emard/ledstrip)
 
-# 64X64 LED panel
+##  64X64 LED panel
 
 * [https://github.com/emard/prjtrellis-led64x64](https://github.com/emard/prjtrellis-led64x64)
 
-# Linux on ULX3S
+##  Linux on ULX3S
 
 * [https://twitter.com/fpga_dave/status/1053290842809683968](https://twitter.com/fpga_dave/status/1053290842809683968)
 
-# PMODS in progress
+##  PMODS in progress
 
 * [https://github.com/goran-mahovlic/ulx3s-PMOD](https://github.com/goran-mahovlic/ulx3s-PMOD)
 
