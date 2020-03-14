@@ -1,5 +1,5 @@
-#  ulx3s-links
-List of all links you can try with ULX3S
+# ulx3s-links
+List of all links you can try with ULX3S. See also [ulx3s.github.io](https://ulx3s.github.io/)
 
 * These links are being moved to https://ulx3s.github.io/
 
