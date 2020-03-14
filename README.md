@@ -1,14 +1,19 @@
 # ulx3s-links
 List of all links you can try with ULX3S
 
+* These links are being moved to https://ulx3s.github.io/
+
 # Documentation
 
 * [https://radiona.org/ulx3s/](https://radiona.org/ulx3s/)
+
+# ULX3S PCB
 
 * [Hardware](https://github.com/emard/ulx3s)
 
 * [Schematics](https://github.com/emard/ulx3s/blob/master/doc/schematics.pdf)
 
+* [http://github.com/emard/ulx3s](http://github.com/emard/ulx3s)
 # Getting Started
 
 * [https://github.com/emard/ulx3s-examples](https://github.com/emard/ulx3s-examples/blob/master/README.md)
@@ -20,6 +25,8 @@ List of all links you can try with ULX3S
 # FPGArduino
 
 * [http://www.nxlab.fer.hr/fpgarduino](http://www.nxlab.fer.hr/fpgarduino)
+
+* [https://github.com/f32c/fpgarduino](https://github.com/f32c/fpgarduino)
 
 * [https://github.com/f32c/arduino](https://github.com/f32c/arduino)
 
@@ -46,18 +53,28 @@ List of all links you can try with ULX3S
 * [https://github.com/emard/Verilog_tic-tac-toe](https://github.com/emard/Verilog_tic-tac-toe)
 
 * [https://github.com/emard/prjtrellis-picorv32](https://github.com/emard/prjtrellis-picorv32)
-		
+
 * [ULX3S WSL/Ubuntu Toolchain Open Source Install](https://gist.github.com/gojimmypi/f96cd86b2b8595b4cf3be4baf493c5a7) 
 
+# Advanced examples
+
+Sources are prepared to compile with both open and closed source tools
+
+    HDMI, LED 64x64, LCD 3.5", OLED, SPDIF/ANALOG AUDIO ...
+
+* [https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc)
+		
 # Retro computing
 
 * [https://github.com/emard/galaksija](https://github.com/emard/galaksija)
 
 * [https://github.com/emard/UK101onFPGA](https://github.com/emard/UK101onFPGA)
 
-* [https://github.com/emard/Minimig_ECS](https://github.com/emard/Minimig_ECS Amiga)
+* [https://github.com/emard/Minimig_ECS](https://github.com/emard/Minimig_ECS)
+(Amiga)
 
-* [https://www.youtube.com/watch?v=q0nysMydf4I&t=1s](Amiga Youtube)
+* [https://www.youtube.com/watch?v=q0nysMydf4I&t=1s](https://www.youtube.com/watch?v=q0nysMydf4I&t=1s)
+(Amiga Youtube)
 
 # Retro gaming
 
@@ -65,14 +82,13 @@ List of all links you can try with ULX3S
 
 * [https://github.com/emard/Papilio-Arcade](https://github.com/emard/Papilio-Arcade)
 
-* [https://www.youtube.com/watch?v=CR-pVxN-08k](Galaksija Youtube)
+* [https://www.youtube.com/watch?v=CR-pVxN-08k](https://www.youtube.com/watch?v=CR-pVxN-08k) (Galaksija Youtube)
 
-* [https://github.com/emard/vhdl_phoenix	](phoenix Youtube)
+* [https://github.com/emard/vhdl_phoenix](https://github.com/emard/vhdl_phoenix)
 		
 # Self-flash & web interface
 
 * [https://www.youtube.com/watch?v=cgYtZW4zPSI](https://www.youtube.com/watch?v=cgYtZW4zPSI)
-
 # HDMI example
 
 * [https://github.com/emard/prjtrellis-dvi](https://github.com/emard/prjtrellis-dvi)
