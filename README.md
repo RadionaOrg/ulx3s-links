@@ -16,7 +16,7 @@ List of all links you can try with ULX3S. See also [ulx3s.github.io](https://ulx
 * [http://github.com/emard/ulx3s](http://github.com/emard/ulx3s)
 ##  Getting Started
 
-* [https://github.com/emard/ulx3s-examples](https://github.com/emard/ulx3s-examples/blob/master/README.md)
+* [https://github.com/emard/ulx3s-misc](https://github.com/emard/ulx3s-misc/blob/master/README.md)
 
 * [https://github.com/emard/ulx3s-bin](https://github.com/emard/ulx3s-bin) 
 
