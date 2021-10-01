@@ -60,6 +60,9 @@ List of all links you can try with ULX3S. See also [ulx3s.github.io](https://ulx
 
 * [ULX3S WSL/Ubuntu Toolchain Open Source Install](https://gist.github.com/gojimmypi/f96cd86b2b8595b4cf3be4baf493c5a7) 
 
+Risc-V 32 Implementation in VHDL
+* [https://github.com/stnolting/neorv32](https://github.com/stnolting/neorv32)
+
 ##  Advanced examples
 
 Sources are prepared to compile with both open and closed source tools
